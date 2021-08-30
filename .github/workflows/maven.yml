@@ -32,5 +32,5 @@ jobs:
     - name: Upload Maven build artifact
       uses: actions/upload-artifact@v2
       with:
-        name: ege-webclient-0.3.jar
-        path: /home/runner/work/ege-webclient/ege-webclient/target/ege-webclient.jar
+        name: ege-webclient-0.3.war
+        path: /home/runner/work/ege-webclient/ege-webclient/target/ege-webclient.war
