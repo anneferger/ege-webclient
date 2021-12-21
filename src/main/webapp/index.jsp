@@ -137,7 +137,7 @@
 	</div>
 </div>
 <div id="footer" >
-<a href="https://github.com/TEIC/oxgarage/">About OxGarage</a> | <a href="https://github.com/TEIC/oxgarage/issues">Feedback</a>
+<a href="https://github.com/TEIC/TEIgarage/">About TEIGarage</a> | <a href="https://github.com/TEIC/TEIgarage/issues">Feedback</a>
  </div> 
 </body>
 </html>
