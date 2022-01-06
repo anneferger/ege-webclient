@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>pl.psnc.dl.ege.webapp</groupId>
   <artifactId>ege-webclient</artifactId>
-  <version>0.4-SNAPSHOT</version>
+  <version>0.4</version>
   <packaging>war</packaging>
   <name>EGE Web Client</name>
   <properties>
@@ -16,8 +16,8 @@
     <project.reporting.outputEncoding>
       UTF-8
     </project.reporting.outputEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
- 	<maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source>
+ 	<maven.compiler.target>11</maven.compiler.target>
   </properties>
 
 
@@ -73,8 +73,8 @@
 <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub anneferger Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/anneferger/ege-webclient</url>
+     <name>GitHub TEIC Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/TEIC/ege-webclient</url>
    </repository>
 </distributionManagement>
 </project>

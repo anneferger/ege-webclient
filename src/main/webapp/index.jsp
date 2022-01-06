@@ -10,7 +10,7 @@
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <meta name="author" content="University of Oxford" />
 
-<title>OxGarage</title>
+<title>TEIGarage</title>
 
 <link rel="stylesheet" href="js/thickbox/thickbox.css" type="text/css" media="screen" />
 
@@ -85,7 +85,7 @@
                   <img src="images/banner.jpg" 
                     alt="Text Encoding Initiative logo and banner"/>
 </div>
-<h1 id='lang_title'>OxGarage Document Conversion</h1>
+<h1 id='lang_title'>TEIGarage Document Conversion</h1>
 <div id="content">
 	<noscript>Please turn the JavaScript on in your browser and refresh the page in order to proceed.</noscript>
 	<div id="errorBox" class="errorBox">
@@ -137,7 +137,7 @@
 	</div>
 </div>
 <div id="footer" >
-<a href="https://github.com/TEIC/oxgarage/">About OxGarage</a> | <a href="https://github.com/TEIC/oxgarage/issues">Feedback</a>
+<a href="https://github.com/TEIC/TEIgarage/">About TEIGarage</a> | <a href="https://github.com/TEIC/TEIgarage/issues">Feedback</a>
  </div> 
 </body>
 </html>
