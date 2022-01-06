@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>pl.psnc.dl.ege.webapp</groupId>
   <artifactId>ege-webclient</artifactId>
-  <version>0.4-SNAPSHOT</version>
+  <version>0.4</version>
   <packaging>war</packaging>
   <name>EGE Web Client</name>
   <properties>
