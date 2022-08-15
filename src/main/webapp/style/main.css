@@ -5,6 +5,13 @@ a {
 
 h1 {
 	padding-left:23px;
+   	font-size: 14pt;
+   	font-family: arial, helvetica, sans-serif;
+   	font-style: italic;
+   	color: #00487D;
+   	background-color: #FFFFFF;
+   	margin-bottom: 0;
+   	page-break-after: avoid;
 }
 
 label {
