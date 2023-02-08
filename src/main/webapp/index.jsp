@@ -137,7 +137,7 @@
 	</div>
 </div>
 <div id="footer" >
-<a href="https://github.com/TEIC/TEIGarage/">About TEIGarage</a> | <a href="https://github.com/TEIC/TEIGarage/issues">Feedback</a>
+<a href="https://github.com/TEIC/TEIGarage/">About TEIGarage</a> | <a href="../ege-webservice">TEIGarage API</a> | <a href="https://github.com/TEIC/TEIGarage/issues">Feedback</a>
  </div> 
 </body>
 </html>
