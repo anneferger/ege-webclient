@@ -1,4 +1,4 @@
-# TEIGarage/MEIGarage
+# TEIGarage/MEIGarage 
 
 [![Java CI with Maven](https://github.com/TEIC/ege-webclient/actions/workflows/maven.yml/badge.svg)](https://github.com/TEIC/ege-webclient/actions/workflows/maven.yml)
 
